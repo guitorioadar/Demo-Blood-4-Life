@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Demo Blood 4 Life</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="btn_members_text">Only registered members can have access of it</string>
+    <string name="btn_user_text">All user let us serve other people</string>
+
+    <string-array name="university_name">
+        <item>Select University Area</item>
+        <item>PSTU</item>
+        <item>KU</item>
+        <item>KUET</item>
+        <item>BUET</item>
+        <item>JU</item>
+    </string-array>
+
+    <string-array name="blood_group">
+        <item>Select Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="title_activity_user__donar__list">User_Donar_List</string>
+
+
+</resources>
